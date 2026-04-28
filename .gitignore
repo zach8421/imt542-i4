@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.mypy_cache/
+.venv/
+.ipynb_checkpoints/
+
+# Generated artifacts (none expected, but just in case)
+items.json
+recycling_sample.json
+waste_sample.json
